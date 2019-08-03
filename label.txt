@@ -1,0 +1,4 @@
+Politics: 0
+Technology: 1
+Entertainment: 2
+Business: 3
